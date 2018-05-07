@@ -1,7 +1,7 @@
 DCSRatingBundle
 ===============
 
-The DCSRatingBundle adds support for a rating system in Symfony2. Features include:
+The DCSRatingBundle adds support for a rating system in Symfony3. Features include:
 
 * You can add your vote to any page with a single line of code.
 * You can integrate it with any user management system (eg FOSUserBundle)
